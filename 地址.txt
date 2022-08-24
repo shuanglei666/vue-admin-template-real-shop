@@ -1,0 +1,14 @@
+博客找到:https://blog.csdn.net/See_Star/article/details/125482707?ops_request_misc=&request_id=&biz_id=102&utm_term=vue-admin%E6%A8%A1%E6%9D%BF&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-4-125482707.142^v39^pc_rank_34_2,185^v2^control&spm=1018.2226.3001.4187
+
+git原地址：
+https://github.com/PanJiaChen/vue-admin-template
+
+gitHub地址下面有：相关项目  ： 还有其他类型模板！！！
+
+相关项目里面的 :真棒项目 : 里面评论区也有好多模板分享可以克隆下来
+https://github.com/PanJiaChen/vue-element-admin/issues/2312
+
+接口如何配置：
+https://www.cnblogs.com/codeluojay/p/13191052.html#
+还有路由重定向在main.js全局挂载注释掉就行,用了自己再加上
+// import '@/permission' // permission control
